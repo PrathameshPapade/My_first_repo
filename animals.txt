@@ -1,3 +1,7 @@
 lion
 tiger
 cheetah
+elephant
+monkey
+dog
+cat
