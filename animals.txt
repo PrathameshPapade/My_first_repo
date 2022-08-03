@@ -5,3 +5,8 @@ elephant
 monkey
 dog
 cat
+giraffe
+rhino
+fox
+wolf
+deer
